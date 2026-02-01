@@ -56,6 +56,6 @@ The goal of this task was to design a modern, user-friendly landing page with in
 
 ## 📌 Author
 
-**Raj**  
+**Raj Gore**  
 Web Development Intern  
 SkillCraft Technology
