@@ -39,12 +39,6 @@ The goal of this task was to design a modern, user-friendly landing page with in
 
 ---
 
-## 🔹 Project Preview
-
-📌 Live Demo: *(Add your Netlify / GitHub Pages link here)*  
-📌 Internship Task: SkillCraft Technology – Web Development Internship  
-
----
 
 ## 🔹 Future Improvements
 
